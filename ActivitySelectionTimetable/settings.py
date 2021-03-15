@@ -29,7 +29,7 @@ SECRET_KEY = '%x6mgu)dtlafcqq-i@i7z8d3r-d*vnnq&v7e2^^+*8lr#k&+#-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://127.0.0.1/','www.pdfgen.herokuapp.com']
+ALLOWED_HOSTS = ['http://127.0.0.1/','www.timetablegen.herokuapp.com']
 
 
 # Application definition
